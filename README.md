@@ -62,9 +62,6 @@ Features include:
 - **Predicted vs Actual Prices**
 - **Prediction Errors**
 
-Example Plot (Predicted vs Actual):  
-
-![Example Plot](https://user-images.githubusercontent.com/0000000/predicted-vs-actual.png)  
 
 ---
 
